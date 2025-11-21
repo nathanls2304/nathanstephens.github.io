@@ -9,3 +9,5 @@ sass:
 
 # Optional: clean GitHub Pages defaults
 markdown: kramdown
+kramdown:
+  input: GFM
