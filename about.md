@@ -56,3 +56,7 @@ Outside of academics and projects, I’m someone who enjoys a mix of creativity,
 - Friends & Family: I value spending time with the people close to me — whether that’s relaxing, exploring new places, or just hanging out.
 
 These interests keep me balanced, help me stay creative, and often inform my engineering work by providing fresh perspectives and constant exposure to real-world aviation.
+
+<div class="custom-footer">
+  © 2025 Nathan Stephens — Aerospace Engineering Portfolio
+</div>
