@@ -5,7 +5,10 @@ layout: default
 
 # Project ASTRA
 
-![ASTRA Mission Patch](/assets/images/astra_project_pic.png)
+<p align="center">
+  <img src="/nathanstephens.github.io/assets/images/astra_project_pic.png" width="450" alt="ASTRA Project Image">
+</p>
+
 
 
 ## Atmospheric - Satellite - Trajectory - Repositioning - Attachment
