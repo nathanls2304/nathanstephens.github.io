@@ -5,6 +5,9 @@ layout: default
 
 # Project ASTRA
 
+![Description of Image](/assets/images/astra_project_pic.png)
+
+
 ## Atmospheric - Satellite - Trajectory - Repositioning - Attachment
 A 2U CubeSat deployable drag device that enables orbital modulation without propulsion.
 
