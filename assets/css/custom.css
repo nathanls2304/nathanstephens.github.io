@@ -1,3 +1,35 @@
+/* --------------------------------------------------
+   HIDE SITE TITLE FROM TOP NAV
+-------------------------------------------------- */
 .site-title {
   display: none !important;
+}
+
+/* --------------------------------------------------
+   IMPROVE SPACING AND READABILITY
+-------------------------------------------------- */
+
+/* Increase spacing between paragraphs */
+p {
+  margin-bottom: 1.2em;
+}
+
+/* Increase spacing between list items */
+li {
+  margin-bottom: 0.4em;
+}
+
+/* Add space above section headers */
+h1, h2, h3, h4 {
+  margin-top: 1.4em;
+}
+
+/* Improve text line spacing for readability */
+body {
+  line-height: 1.6;
+}
+
+/* Slight spacing under navigation bar */
+.site-nav {
+  margin-bottom: 1.2rem;
 }
