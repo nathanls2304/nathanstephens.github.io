@@ -3,6 +3,8 @@ title: "About Me"
 layout: default
 ---
 
+### About Me
+
 My Journey Into Aerospace
 My interest in aerospace began long ago. Growing up, I spent countless hours on flight simulators, flying everything from turboprops to wide-body jets, and even creating my own custom aircraft liveries. I would also occasionally visit the local airport or any nearby airport to planespot. That early curiosity gradually evolved into a passion for aerospace engineering.
 
