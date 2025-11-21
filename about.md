@@ -1,15 +1,12 @@
 # About Me
 
-I’m Nathan Stephens, a senior Aerospace Engineering student at Florida Institute of Technology with a strong background in spacecraft dynamics, aerodynamic analysis, and multidisciplinary engineering design. My experience spans modeling, simulation, and hands-on hardware development across controls, aerodynamics, and space systems.
+I’m Nathan Stephens, a senior Aerospace Engineering student at Florida Institute of Technology with hands-on experience in dynamic systems modeling, simulation, controls, structural analysis, and product development. I specialize in solving complex engineering problems using a combination of analytical modeling, numerical simulation, and hardware-focused design. My work spans multiple domains, including aerospace, mechanical systems, and embedded software, allowing me to bridge the gap between simulation, design, and real-world implementation.
 
 Core Technical Strengths:
+- Dynamic Systems & Controls: modeling with quaternions, PID/Lyapunov control, system identification, actuator modeling
+- Simulation & Analysis: CFD (ANSYS Fluent), FEA (ANSYS Mechanical), MATLAB/Simulink modeling, rapid prototyping workflows
+- Mechanics & Design: structural analysis, materials selection, CAD (Creo, NX, Fusion 360), mechanism design
+- Programming & Software: MATLAB, Simulink, C++; embedded systems; algorithm development
+- Systems Engineering: requirements development, system architecture, multidisciplinary design reviews, trade studies
 
-- Spacecraft ADCS modeling: quaternions, attitude dynamics, Lyapunov control, actuator modeling
-- Computational Fluid Dynamics (ANSYS Fluent) — rarefied flow, LEO drag analysis, DSMC/Sentman theory
-- Structural analysis & FEA (ANSYS Mechanical)
-- Orbital decay modeling & aerodynamic stability of drag-modulation devices
-- CAD & design tools: Creo, NX, Fusion 360, OpenVSP
-- Software & programming: MATLAB, Simulink, C++, Python
-- Systems engineering: requirements development, trade studies, design reviews, and team-based technical   projects
-
-
+I enjoy tackling challenging technical problems, building practical solutions, and delivering designs that are functional, reliable, and backed by engineering analysis.
