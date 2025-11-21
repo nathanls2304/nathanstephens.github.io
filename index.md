@@ -2,16 +2,19 @@
 **Aerospace Engineering Student | Controls & Aerodynamics | CFD | Orbital Mechanics**
 
 Welcome to my engineering portfolio.  
-I am a senior Aerospace Engineering student at **Florida Institute of Technology** with project experience in:
+I’m Nathan Stephens, a Senior Aerospace Engineering student at Florida Institute of Technology with hands-on experience in dynamic systems modeling, simulation, controls, structural analysis, and product development. I specialize in solving complex engineering problems using a combination of analytical modeling, numerical simulation, and hardware-focused design. My work spans multiple domains, including aerospace, mechanical systems, and embedded software, allowing me to bridge the gap between simulation, design, and real-world implementation.
 
-- CubeSat drag-modulation systems (Senior Design – A.S.T.R.A)
-- Attitude Determination & Control (ADCS)
-- Rocket nozzle design via Method of Characteristics
-- LEO SAR mission design & communication architecture
-- RC aircraft design, CFD, stability & control
-- CAD, FEA, CFD, MATLAB, Simulink, and systems engineering
+Core Technical Strengths:
+- Dynamic Systems & Controls: modeling with quaternions, PID/Lyapunov control, system identification, actuator modeling
+- Simulation & Analysis: CFD (ANSYS Fluent), FEA (ANSYS Mechanical), MATLAB/Simulink modeling, rapid prototyping workflows
+- Mechanics & Design: structural analysis, materials selection, CAD (Creo, NX, Fusion 360), mechanism design
+- Programming & Software: MATLAB, Simulink, C++; embedded systems; algorithm development
+- Systems Engineering: requirements development, system architecture, multidisciplinary design reviews, trade studies
 
-### 🔧 **Engineering Projects**
+I enjoy tackling challenging technical problems, building practical solutions, and delivering designs that are functional, reliable, and backed by engineering analysis.
+
+
+### 🔧 **Some of my Engineering Projects Include:**
 - [A.S.T.R.A CubeSat Drag-Sail System](projects/astra.md)
 - [2D Bell Nozzle – Method of Characteristics](projects/nozzle.md)
 - [Attitude Determination & Control Simulator](projects/adcs.md)
